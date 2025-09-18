@@ -45,7 +45,6 @@ Diagram Entity-Relationship (ERD) di bawah ini menggambarkan struktur database d
 2. Install dependencies:
    ```bash
    composer install
-   npm install
    ```
 
 3. Setup environment:
@@ -57,18 +56,5 @@ Diagram Entity-Relationship (ERD) di bawah ini menggambarkan struktur database d
    php artisan migrate
    ```
 
-5. Seed database (opsional):
-   ```bash
-   php artisan db:seed
-   ```
-
-6. Jalankan aplikasi:
-   ```bash
-   php artisan serve
-   ```
-
-## Penggunaan
-
-- Akses aplikasi di `http://localhost:8000`
 
 
