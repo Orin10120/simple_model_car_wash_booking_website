@@ -14,7 +14,7 @@ Aplikasi web Laravel untuk sistem booking layanan cuci mobil secara online. Peng
 
 ### User
 - Relasi: `hasMany(Vehicle)`, `hasMany(Booking)`
-- Atribut: name, email, phone_number, password
+- Atribut: name, email, phone_number, password  
 
 ### Vehicle
 - Relasi: `belongsTo(User)`, `hasMany(Booking)`
