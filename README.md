@@ -32,7 +32,7 @@ Aplikasi web Laravel untuk sistem booking layanan cuci mobil secara online. Peng
 
 Diagram Entity-Relationship (ERD) di bawah ini menggambarkan struktur database dan relasi antar entitas dalam sistem Car Wash Booking. User dapat memiliki banyak Vehicle dan Booking, Vehicle dapat memiliki banyak Booking, Service dapat memiliki banyak Booking, sedangkan Booking terkait dengan satu User, satu Vehicle, dan satu Service.
 
-![Entity-Relationship Diagram](storage/app/public/ERD.png)
+![Entity-Relationship Diagram](public/ERD.png)
 
 ## Instalasi
 
