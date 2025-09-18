@@ -2,14 +2,6 @@
 
 Aplikasi web Laravel untuk sistem booking layanan cuci mobil secara online. Pengguna dapat mendaftarkan kendaraan mereka, memilih layanan yang tersedia, dan melakukan booking dengan mudah.
 
-## Fitur Utama
-
-- **Manajemen Pengguna**: Registrasi dan login pengguna.
-- **Manajemen Kendaraan**: Pengguna dapat menambahkan dan mengelola kendaraan mereka (plat nomor, model, tipe, warna).
-- **Layanan**: Daftar layanan cuci mobil yang tersedia dengan harga dan durasi.
-- **Booking**: Sistem booking untuk memesan layanan cuci mobil, termasuk pemilihan tanggal, waktu, dan status booking.
-- **Soft Deletes**: Semua model menggunakan soft deletes untuk data recovery.
-
 ## Model dan Relasi
 
 ### User
