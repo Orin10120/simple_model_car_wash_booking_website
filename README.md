@@ -1,4 +1,4 @@
-# Car Wash Booking System
+# Car Wash Booking Website
 
 Aplikasi web Laravel untuk sistem booking layanan cuci mobil secara online. Pengguna dapat mendaftarkan kendaraan mereka, memilih layanan yang tersedia, dan melakukan booking dengan mudah.
 
